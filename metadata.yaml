@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6899'
     url: http://www.gutenberg.org/2009/agents/6899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16737#International-LanguagePast-Present-and-Future--With-Specimens-of-Esperanto-and-Grammar
 gutenberg_bookshelf:
 - Esperanto
 - Language Education
