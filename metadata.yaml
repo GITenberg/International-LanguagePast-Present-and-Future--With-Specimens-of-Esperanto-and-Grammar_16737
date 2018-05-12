@@ -1,0 +1,30 @@
+_repo: International-LanguagePast-Present-and-Future--With-Specimens-of-Esperanto-and-Grammar_16737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Walter John
+    alias: Clark, Walter J.
+    gutenberg_agent_id: '6899'
+    url: http://www.gutenberg.org/2009/agents/6899
+description: ''
+gutenberg_bookshelf:
+- Esperanto
+- Language Education
+gutenberg_issued: '2005-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- Grammar'
+- !lcc 'PM'
+title: 'International Language
+
+  Past, Present and Future: With Specimens of Esperanto and Grammar'
+url: http://www.gutenberg.org/ebooks/16737
